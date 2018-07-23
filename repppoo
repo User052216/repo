@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Bahay na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/3.jpg",
     "priceCurrency": "₱",
     "price": 50,
     "lat": 16.8472,
@@ -28,8 +28,8 @@
   },
   {
     "id": 205,
-    "name": "Marand Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place4.jpg",
+    "name": "Marand Resort: description may pool at hotel for rent",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/4.jpg",
     "priceCurrency": "₱",
     "price": 150,
     "lat": 16.5264,
