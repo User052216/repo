@@ -55,12 +55,21 @@
     "lng": 120.3216
   },
     {
-    "id": 211,
+    "id": 212,
     "name": "House ko hihihi",
     "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/bahayko.png",
     "priceCurrency": "₱",
     "price": 0,
     "lat": 16.546750,
     "lng": 120.320285
+  }
+   {
+    "id": 213,
+    "name": "tangadan falls",
+    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
+    "priceCurrency": "₱",
+    "price": 0,
+    "lat": 16.6436,
+    "lng": 120.320285120.4488
   }
 ]
