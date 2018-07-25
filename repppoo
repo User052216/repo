@@ -3,8 +3,8 @@
     "id": 145,
     "name": "  El nido palawan ",
     "imageUrl": "https://i2.wp.com/wanderlustyle.com/wp-content/uploads/2017/07/DSC03380.jpg?resize=1170%2C508",
-    "priceCurrency": "km",
-    "price": 120,
+    "priceCurrency": "kilometer distance:",
+    "price": 883,
     "lat": 16.6167,
     "lng": 120.3197
   },
@@ -12,8 +12,8 @@
     "id": 148,
     "name": "Pugad Resort",
     "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/07/b9/67/c6/pugad-adventure-la-union.jpg",
-    "priceCurrency": "km",
-    "price": 200,
+    "priceCurrency": "kilometer distance:",
+    "price": 44,
     "lat": 11.2097,
     "lng": 119.4623
   },
@@ -21,8 +21,8 @@
     "id": 201,
     "name": "Siargao",
     "imageUrl": "https://www.journeyera.com/wp-content/uploads/2018/01/things-to-do-in-siargao-island-philippines-0165227.jpg",
-    "priceCurrency": "km",
-    "price": 50,
+    "priceCurrency": "kilometer distance:",
+    "price": 970,
     "lat": 9.8482,
     "lng": 126.0458
   },
@@ -30,8 +30,8 @@
     "id": 205,
     "name": "coron",
     "imageUrl": "https://i.pinimg.com/originals/5a/4f/71/5a4f71abd2e34edb6138368db7556a23.jpg",
-    "priceCurrency": "km",
-    "price": 150,
+    "priceCurrency": "kilometer distance:",
+    "price": 502,
     "lat": 12.0499,
     "lng": 120.1782
   },
@@ -39,8 +39,8 @@
     "id": 210,
     "name": "puerto princesa",
     "imageUrl": "https://i.ytimg.com/vi/fIkmYFU4beY/maxresdefault.jpg",
-    "priceCurrency": "km",
-    "price": 150,
+    "priceCurrency": "kilometer distance:",
+    "price":  752,
     "lat": 9.9672,
     "lng": 118.7855
   },
@@ -48,8 +48,8 @@
     "id": 211,
     "name": "Hinatuan",
     "imageUrl": "https://i.ytimg.com/vi/c09-d4Y27Uw/hqdefault.jpg",
-    "priceCurrency": "km",
-    "price": 200,
+    "priceCurrency": "kilometer distance:",
+    "price": 1122,
     "lat": 8.3837,
     "lng": 126.3715
   },
@@ -57,8 +57,8 @@
     "id": 211,
     "name": "burnham park",
     "imageUrl": "http://via.news/wp-content/uploads/2017/09/Philippines-Burnham-Park-vianews.jpg",
-    "priceCurrency": "km",
-    "price": 0,
+    "priceCurrency": "kilometer distance:",
+    "price": 50,
     "lat": 16.4093,
     "lng": 120.5950
   },
@@ -66,8 +66,8 @@
     "id": 2122,
     "name": "tangadan falls",
     "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
-    "priceCurrency": "km",
-    "price": 0,
+    "priceCurrency": "distance in kilometer:",
+    "price": 31,
     "lat": 16.6436,
     "lng": 120.4488
   }
@@ -76,8 +76,8 @@
     "id": 2122,
     "name": "Enchanted Kingdom",
     "imageUrl": "http://i1193.photobucket.com/albums/aa352/RealAsianBeauty/RealAsianBeauty001/CIMG0095_zpsv0koyogj.jpg",
-    "priceCurrency": "km",
-    "price": 200,
+    "priceCurrency": "kilometer distance:",
+    "price": 304,
     "lat": 14.2822,
     "lng": 121.0967
   }
@@ -86,8 +86,8 @@
     "id": 2122,
     "name": "Mines view",
     "imageUrl": "https://c1.staticflickr.com/2/1149/933189399_c190abfd57_b.jpg",
-    "priceCurrency": "km",
-    "price": 200,
+    "priceCurrency": "kilometer distance:",
+    "price": 57,
     "lat": 16.4196,
     "lng": 120.6279
   }
@@ -96,8 +96,8 @@
     "id": 2122,
     "name": "Boracay",
     "imageUrl": "https://www.dw.com/image/42598442_303.jpg",
-    "priceCurrency": "km",
-    "price": 200,
+    "priceCurrency": " kilometer distance:",
+    "price": 705,
     "lat": 11.9674,
     "lng": 121.9248
   }
@@ -106,8 +106,8 @@
     "id": 2122,
     "name": "Vigan",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Calle_Crisologo%2C_Vigan_City%2C_Ilocos_Sur.JPG",
-    "priceCurrency": "km",
-    "price": 200,
+    "priceCurrency": "kilometer distance:",
+    "price": 144,
     "lat": 17.5705,
     "lng": 120.3873
   }
@@ -116,7 +116,7 @@
     "id": 2122,
     "name": "Batanes",
     "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2018/02/South-Batanes-Tour.jpg",
-    "priceCurrency": "km",
+    "priceCurrency": "kilometer distance:",
     "price": 200,
     "lat": 20.4485,
     "lng": 121.9708
