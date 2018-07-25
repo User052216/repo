@@ -102,4 +102,44 @@
     "lat": 11.9674,
     "lng": 121.9248
   }
+  ,
+    {
+    "id": 2122,
+    "name": "Vigan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Calle_Crisologo%2C_Vigan_City%2C_Ilocos_Sur.JPG",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 17.5705,
+    "lng": 120.3873
+  }
+   ,
+    {
+    "id": 2122,
+    "name": "Batanes",
+    "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2018/02/South-Batanes-Tour.jpg",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 20.4485,
+    "lng": 121.9708
+  }
+   ,
+    {
+    "id": 2122,
+    "name": "Malapascua",
+    "imageUrl": "https://i.ytimg.com/vi/Jts9_WHHYW0/maxresdefault.jpg",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 11.3358,
+    "lng": 124.1156
+  }
+  ,
+    {
+    "id": 2122,
+    "name": "Kalanggaman island",
+    "imageUrl": "https://i2.wp.com/outoftownblog.com/wp-content/uploads/2014/02/Kalanggaman-Island-Travel-Guide.jpg?fit=1500%2C1125&ssl=1",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 11.1144,
+    "lng": 124.2495
+  }
 ]
