@@ -82,4 +82,24 @@
     "lat": 14.2822,
     "lng": 121.0967
   }
+  ,
+    {
+    "id": 2122,
+    "name": "Mines view",
+    "imageUrl": "https://c1.staticflickr.com/2/1149/933189399_c190abfd57_b.jpg",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 16.4196,
+    "lng": 120.6279
+  }
+   ,
+    {
+    "id": 2122,
+    "name": "Boracay",
+    "imageUrl": "https://www.dw.com/image/42598442_303.jpg",
+    "priceCurrency": "km",
+    "price": 200,
+    "lat": 11.9674,
+    "lng": 121.9248
+  }
 ]
