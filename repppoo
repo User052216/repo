@@ -126,8 +126,8 @@
     "id": 2122,
     "name": "Malapascua",
     "imageUrl": "https://i.ytimg.com/vi/Jts9_WHHYW0/maxresdefault.jpg",
-    "priceCurrency": "km",
-    "price": 200,
+    "priceCurrency": "kilometer distance:",
+    "price": 880,
     "lat": 11.3358,
     "lng": 124.1156
   }
@@ -136,8 +136,18 @@
     "id": 2122,
     "name": "Kalanggaman island",
     "imageUrl": "https://i2.wp.com/outoftownblog.com/wp-content/uploads/2014/02/Kalanggaman-Island-Travel-Guide.jpg?fit=1500%2C1125&ssl=1",
-    "priceCurrency": "km",
-    "price": 200,
+    "priceCurrency": "kilometer distance:",
+    "price": 2440,
+    "lat": 11.1144,
+    "lng": 124.2495
+  }
+   ,
+    {
+    "id": 2122,
+    "name": "BAHAY NI CHARLES",
+    "imageUrl": "https://s.hdnux.com/photos/71/43/13/15086302/5/920x920.jpg",
+    "priceCurrency": "kilometer distance:",
+    "price": 0,
     "lat": 11.1144,
     "lng": 124.2495
   }
